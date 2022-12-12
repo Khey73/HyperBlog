@@ -5,3 +5,7 @@ un blog increible desarrollaod en el curso de freddy vega git y github
 
 >- Yei
 >- ok
+
+
+
+* CREADO POR EL INCREIBLE PLATZI TEAM
