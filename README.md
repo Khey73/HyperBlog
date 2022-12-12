@@ -10,3 +10,4 @@ un blog increible desarrollaod en el curso de freddy vega git y github
 
 * CREADO POR EL INCREIBLE PLATZI TEAM
 *incluye ejemplos en linux, mac y windows
+*disponible para todos ugu
